@@ -8,7 +8,7 @@
 
 --- 
 
-## 💇🏻‍♂️ About the project
+## 💇🏻‍♂️ Sobre o projeto
 
 Aplicação desenvolvida durante o bootcamp GoStack para o agendamento de serviços de barbearia
 
